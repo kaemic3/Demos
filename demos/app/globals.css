@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+}
+.TextColor {
+  color: #d9d9d9
+}
+.SelectedColor {
+  color:#E17899
+}
+.SubColor {
+  color: #97bb98
+}
